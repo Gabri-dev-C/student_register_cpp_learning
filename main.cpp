@@ -1,6 +1,6 @@
 /*
  * Programma: Registro studenti
- * Autore: Gabriele H.
+ * Autore: Gabriele Henriet
  * Data: Settembre 2025
  * Scopo: Gestire i dati degli studenti con un registro elettronico
  */
@@ -499,3 +499,4 @@ void premi_invio(){
     cout << "Premi INVIO per continuare";
     cin.get();
 }
+
